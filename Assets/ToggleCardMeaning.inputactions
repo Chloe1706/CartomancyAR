@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "ToggleCardMeaning",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "c39c320b-4a1c-4392-97ec-ba07dad07b8e",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "e62747c8-9ca3-4097-9b4f-3effe416f164",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0d83dcca-5aff-4a73-8825-9058b6c48392",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
