@@ -1,1 +1,0 @@
-/Users/chloe/Development/Simple Image Tracking SafeCopy/Library/Bee/artifacts/Android/il2cppOutput/cpp
